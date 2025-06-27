@@ -30,7 +30,6 @@ Each topic has its own folder. Inside, you'll find:
 - ✅ The problem title
 - ✅ My clean code with comments
 - ✅ Time and space complexities
-- ✅ (Optional) Explanations and edge cases
 
 ---
 
