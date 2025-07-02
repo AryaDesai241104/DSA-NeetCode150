@@ -26,7 +26,7 @@ class Solution2:
 
 
 def main():
-    print("🔁 Anagram Checker")
+    print("Anagram Checker")
     s = input("Enter the first string: ").lower()
     t = input("Enter the second string: ").lower()
 
