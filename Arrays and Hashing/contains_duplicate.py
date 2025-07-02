@@ -1,3 +1,4 @@
+# My solution
 class Solution:
     def hasDuplicate(self, nums: list[int]) -> bool:
         hashset = set()
@@ -7,6 +8,8 @@ class Solution:
                 return True
             hashset.add(n)
         return False
+# Time complexity: O(n)
+# Space complexity: O(n)
 
 def main():
     # Taking input from user as a string and converting it to a list of integers
